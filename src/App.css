@@ -24,5 +24,7 @@ button {
 }
 
 .like{
-  float: center;
+  float: inline-start;
+  margin-bottom: 50px;
+  margin-left: 200px;
 }
